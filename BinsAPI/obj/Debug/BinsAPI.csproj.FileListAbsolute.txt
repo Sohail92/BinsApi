@@ -1,0 +1,85 @@
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\roslyn\csc.exe
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\roslyn\vbc.exe
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\roslyn\VBCSCompiler.exe
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\BinsAPI.dll.config
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\BinsAPI.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\BinsAPI.pdb
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\Newtonsoft.Json.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Net.Http.Formatting.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Web.Helpers.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Web.Http.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Web.Http.WebHost.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Web.Mvc.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Web.Razor.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Web.Webpages.Deployment.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Web.Webpages.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Web.Webpages.Razor.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\Newtonsoft.Json.xml
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Net.Http.Formatting.xml
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Web.Http.xml
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Web.Http.WebHost.xml
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Web.Razor.xml
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Web.Webpages.xml
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Web.Webpages.Deployment.xml
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Web.Webpages.Razor.xml
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Web.Helpers.xml
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\bin\System.Web.Mvc.xml
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\obj\Debug\BinsAPI.dll
+c:\users\ftosr1\documents\visual studio 2015\Projects\BinsAPI\BinsAPI\obj\Debug\BinsAPI.pdb
+C:\Users\ftosr1\Documents\Visual Studio 2015\Projects\BinsAPI\BinsAPI\obj\Debug\BinsAPI.csproj.CoreCompileInputs.cache
+C:\Users\ftosr1\Documents\Visual Studio 2015\Projects\BinsAPI\BinsAPI\obj\Debug\BinsAPI.csproj.CopyComplete
+C:\Users\ftosr1\Documents\Visual Studio 2015\Projects\BinsAPI\BinsAPI\obj\Debug\BinsAPI.csprojAssemblyReference.cache
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\roslyn\csc.exe
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\roslyn\vbc.exe
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\BinsAPI.dll.config
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\BinsAPI.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\BinsAPI.pdb
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\Newtonsoft.Json.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Web.Helpers.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Web.Http.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Web.Mvc.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Web.Razor.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Web.Webpages.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\Newtonsoft.Json.xml
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Web.Http.xml
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Web.Razor.xml
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Web.Webpages.xml
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Web.Helpers.xml
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\bin\System.Web.Mvc.xml
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\obj\Debug\BinsAPI.csprojResolveAssemblyReference.cache
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\obj\Debug\BinsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\obj\Debug\BinsAPI.dll
+C:\Users\Sohail Rahman\Downloads\BinsApi-master\BinsAPI\obj\Debug\BinsAPI.pdb
